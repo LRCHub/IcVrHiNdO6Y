@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ロンリー・ワールド",
+  "base_artist": "Limp Bizkit",
+  "createdAt": "2026-02-15T16:48:35.551017Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lonely World",
+      "artist": "Limp Bizkit",
+      "has_synced": false,
+      "path": "select/pl_01_Lonely_World_Limp_Bizkit.txt"
+    }
+  ]
+}
